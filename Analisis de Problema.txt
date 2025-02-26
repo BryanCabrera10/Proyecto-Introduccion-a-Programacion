@@ -1,0 +1,7 @@
+El problema del programa, es que va requiriendo muchos datos para poder avanzar
+y calcular el dato correcto del asegurado, como por ejemplo tiene que ser mayor de edad,
+preguntar si esta casado y si aparte tiene hijos, entonces tenemos que utilizar 
+condiciones para poder ir agregando un porcentaje mas alto, y se van aplicando
+dependiendo la respuesta del usuario, luego de preguntar todo entonces es la hora 
+de calcular el saldo final, sumando todos los porcentajes y presentando cuanto es
+de recargo y su totalidad.

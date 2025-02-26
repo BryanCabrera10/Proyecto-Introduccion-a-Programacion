@@ -1,0 +1,16 @@
+-Preguntar el nombre del asegurado
+-Preguntar su edad
+-Evaluar que el usuario sea mayor de edad
+-Preguntar si esta casado
+-Si esta casado preguntar edad de esposo/a
+-Preguntar si tiene hijos
+-Si tiene hijos preguntar cuantos hijos tiene
+-Si el usuario tiene entre 18-24 años recargo 10% del precio base
+-Si el usuario tiene entre 25-49 años recargo 20% del precio base
+-Si el usuario tiene 50 años recargo 30% del precio base
+-Si esta casado y tiene entre 18-24 años recargo 10% del precio base
+-Si esta casado y tiene entre 25-49 años recargo 20% del precio base
+-Si esta casado y tiene 50 años recargo 30% del precio base
+-Si tiene hijos, multiplicar numero de hijos por 0.2, por precio base
+-Sumar todos los recargos hechos.
+-Mostrar en pantalla Nombre, Recargos y total a cancelar.
